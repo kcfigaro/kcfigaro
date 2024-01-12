@@ -22,8 +22,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 -----
-
-<img align="center" alt="KC's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kcfigaro&count_private=true&show_icons=true&theme=algolia" />
-
------
 Don't forget to hit the ⭐, If you like this repo.
